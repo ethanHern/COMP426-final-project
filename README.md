@@ -9,11 +9,11 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-<img width="1509" alt="Screenshot 2025-04-30 at 9 34 11 PM" src="https://github.com/user-attachments/assets/bfaa0cee-8841-45ce-88f1-c4e147fae706" />
-<img width="1512" alt="Screenshot 2025-04-30 at 9 34 16 PM" src="https://github.com/user-attachments/assets/27330ca3-e41d-4075-8311-1063a6e51b9b" />
-<img width="1511" alt="Screenshot 2025-04-30 at 9 34 23 PM" src="https://github.com/user-attachments/assets/7978ca47-5ffc-4021-a7b2-629ace11265f" />
-<img width="426" alt="Screenshot 2025-04-30 at 9 45 52 PM" src="https://github.com/user-attachments/assets/3809e74a-fa27-4042-8d93-ca13066071cb" />
-<img width="433" alt="Screenshot 2025-04-30 at 9 45 45 PM" src="https://github.com/user-attachments/assets/7910d3dc-fe49-4e60-922f-6926eed802ea" />
+<img width="1509" height="820" alt="DealSteal1" src="https://github.com/user-attachments/assets/8dce3316-898f-45f7-9dfb-4412175e5ca1" />
+<img width="1512" height="819" alt="DealSteal2" src="https://github.com/user-attachments/assets/5f1e9502-35fa-41a0-83ba-d83bf4e344c4" />
+<img width="1511" height="821" alt="DealSteal3" src="https://github.com/user-attachments/assets/1d0ceb12-79e4-4095-89e1-6f0810b06e3a" />
+<img width="426" height="425" alt="DealSteal4" src="https://github.com/user-attachments/assets/3194ceb2-fc47-49ad-9335-ff457b526f42" />
+<img width="433" height="423" alt="DealSteal5" src="https://github.com/user-attachments/assets/ca5bdd8e-b401-4300-abb2-07fe184508ce" />
 
 
 DealSteal is a community-powered app for discovering and sharing the best grocery store deals. Users can post new deals, browse and sort offers by stores, dates, and bookmark favorites. 
