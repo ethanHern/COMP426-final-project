@@ -30,7 +30,7 @@ export default function DealsFeed({
             <Fragment key={`deal_${listing.id}`}>
               <DealCard supabase={supabase} user={user} listing={listing} />
 
-              {/* Trigger fetchNext when the last card comes into view */}
+              {/* Trigger fetchNext when the last card comes into view. */}
               {index === page.length - 1 &&
                 pageIndex === deals.pages.length - 1 && (
                   <InView
