@@ -24,7 +24,7 @@ type DealDialogProps = {
   listing: z.infer<typeof Listing>;
 };
 
-//Once you click on the image, this dialog will open up
+//Once you click on the image, this dialog will open up.
 export default function DealDialog({
   supabase,
   user,
